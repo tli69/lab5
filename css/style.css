@@ -20,7 +20,13 @@ body{
 
 #planets thead{
     font-size: 24px;
-    color:rgb(0, 139, 139)
+    color:rgb(0, 139, 139);
+}
+
+#planets {
+	margin-right: auto;
+	margin-left: auto;
+	border-collapse:collapse;
 }
 
 .planetImg{
