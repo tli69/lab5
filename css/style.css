@@ -1,0 +1,55 @@
+td, th {
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    border: 2px solid;
+    border-color: rgb(112, 128, 144);
+    height: 1.6em;
+    overflow: hidden;
+  }
+
+body{
+    background-color: rgb(173, 216, 230);
+}
+
+#Title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(255, 245, 238);
+}
+
+#planets thead{
+    font-size: 24px;
+    color:rgb(0, 139, 139)
+}
+
+.planetImg{
+    width: 10em;
+}
+
+
+
+.data{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.dataName {
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-family: Tahoma, sans-serif;
+}
+
+.lineColor {
+    background-color: rgb(169, 169, 169);
+}
+
+.imagebackground{
+  background-color: rgb(240, 255, 240);
+}
+
+table {
+    background-image: url(../image/galaxy.jpg);
+    background-size: 100%;
+}
